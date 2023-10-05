@@ -1,4 +1,4 @@
-# Python-Image-Classifier
+# sPy - python ML image classifier
 Train a neural network to recognize and classify images with Python's TensorFlow library.
 
 # How-To
